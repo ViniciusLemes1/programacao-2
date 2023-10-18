@@ -1,0 +1,46 @@
+body {
+    background: #CCCCCC
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
+}
+
+.foto{
+    
+}
+.foto{
+    width: 30%;
+  margin: auto;
+  display: block;
+}
+img {
+    width: 60%;
+    height: 500px;
+  }
+ 
